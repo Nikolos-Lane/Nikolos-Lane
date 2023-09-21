@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript basics from FreeCodeCamp
 - 💞️ I’m am creating my path to become a successful Software Engineer and I will not take any shortcuts to my end goal!
 - 📫 It is best to reach me at nlane.tech@gmail.com
+- 9/20/23 Working on tutorials, pathways, and hands on coding at FreeCodeCamp.
 
 <!---
 Nikolos-Lane/Nikolos-Lane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
